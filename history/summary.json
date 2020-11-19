@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Homepage",
+    "url": "https://incognitus.io",
+    "slug": "homepage",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 194
+  },
+  {
+    "name": "Management Console",
+    "url": "https://incognitus.io/manage",
+    "slug": "management-console",
+    "status": "up",
+    "uptime": "100.00",
+    "time": 32
+  }
+]
