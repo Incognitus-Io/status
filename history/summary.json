@@ -5,7 +5,7 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00",
-    "time": 186
+    "time": 198
   },
   {
     "name": "Management Console",
@@ -13,6 +13,6 @@
     "slug": "management-console",
     "status": "up",
     "uptime": "100.00",
-    "time": 29
+    "time": 28
   }
 ]
