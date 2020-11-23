@@ -4,15 +4,15 @@
     "url": "https://incognitus.io",
     "slug": "homepage",
     "status": "up",
-    "uptime": "100.00",
-    "time": 205
+    "uptime": "100.00%",
+    "time": 201
   },
   {
     "name": "Management Console",
     "url": "https://incognitus.io/manage",
     "slug": "management-console",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 28
   }
 ]
