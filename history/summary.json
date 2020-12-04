@@ -5,7 +5,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "100.00%",
-    "time": 194
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 192,
+    "timeDay": 149,
+    "timeWeek": 180,
+    "timeMonth": 192,
+    "timeYear": 192
   },
   {
     "name": "Management Console",
@@ -13,6 +21,14 @@
     "slug": "management-console",
     "status": "up",
     "uptime": "100.00%",
-    "time": 27
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 28,
+    "timeDay": 34,
+    "timeWeek": 30,
+    "timeMonth": 28,
+    "timeYear": 28
   }
 ]
