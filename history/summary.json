@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 258,
-    "timeWeek": 173,
-    "timeMonth": 191,
-    "timeYear": 191
+    "time": 188,
+    "timeDay": 121,
+    "timeWeek": 169,
+    "timeMonth": 188,
+    "timeYear": 188
   },
   {
     "name": "Management Console",
@@ -26,8 +26,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 25,
-    "timeWeek": 28,
+    "timeDay": 27,
+    "timeWeek": 27,
     "timeMonth": 28,
     "timeYear": 28
   }
