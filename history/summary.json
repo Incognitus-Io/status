@@ -4,10 +4,10 @@
     "url": "https://incognitus.io",
     "icon": "https://favicons.githubusercontent.com/incognitus.io",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
@@ -15,16 +15,18 @@
     "timeWeek": 255,
     "timeMonth": 328,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 1
+    }
   },
   {
     "name": "Management Console",
     "url": "https://incognitus.io/manage",
     "icon": "https://favicons.githubusercontent.com/incognitus.io",
     "slug": "management-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 113,
     "timeMonth": 136,
     "timeYear": 83,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   }
 ]
