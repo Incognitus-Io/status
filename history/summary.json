@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 197,
-    "timeWeek": 272,
-    "timeMonth": 247,
+    "time": 213,
+    "timeDay": 214,
+    "timeWeek": 253,
+    "timeMonth": 248,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2023-01-18": 64
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Management Console",
@@ -31,12 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 34,
-    "timeDay": 12,
-    "timeWeek": 36,
+    "timeDay": 40,
+    "timeWeek": 37,
     "timeMonth": 29,
     "timeYear": 29,
-    "dailyMinutesDown": {
-      "2023-01-18": 63
-    }
+    "dailyMinutesDown": {}
   }
 ]
